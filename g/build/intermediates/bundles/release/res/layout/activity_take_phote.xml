@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_layout"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="elink.mobile.im.activity.TakePhoteActivity">
+
+    <RelativeLayout
+        android:id="@+id/take_photo_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+        <cn.finalteam.galleryfinal.widget.camera.CameraPreview
+            android:id="@+id/cameraPreview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <cn.finalteam.galleryfinal.widget.camera.FocusView
+            android:id="@+id/view_focus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:padding="12dp">
+            <ImageView
+                android:id="@+id/ok"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:padding="12dp"
+                android:src="@drawable/ic_ok_selector"
+                android:layout_alignParentLeft="true"
+                android:onClick="close"/>
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_centerInParent="true"
+                android:onClick="takePhoto"
+                android:padding="12dp"
+                android:src="@drawable/ic_takephoto_selector"/>
+            <ImageView
+                android:id="@+id/close"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:padding="12dp"
+                android:src="@drawable/ic_close_selector"
+                android:layout_alignParentRight="true"
+                android:onClick="close"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\release\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 50,
+                        "endOffset": 754
+                    }
+                }
+            }
+        ]
+    }
+]

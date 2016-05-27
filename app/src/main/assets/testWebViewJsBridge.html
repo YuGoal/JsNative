@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport"
+	content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<title>js调用java</title>
+<script>
+	function testDiv() {
+		document.getElementById("show").innerHTML = document
+				.getElementsByTagName("html")[0].innerHTML;
+	}
+
+	function testClick() {
+		var str1 = document.getElementById("text1").value;
+		var str2 = document.getElementById("text2").value;
+		//发送消息给java代码
+		var data = "name=" + str1 + ",pass=" + str2;
+		window.WebViewJavascriptBridge.send(data,function(responseData) {
+			document.getElementById("show").innerHTML = "repsonseData from java, data = "+ responseData ;
+		});
+	}
+
+	function testClick1() {
+		var str1 = document.getElementById("text1").value;
+		var str2 = document.getElementById("text2").value;
+		//调用本地java方法
+		window.WebViewJavascriptBridge.callHandler(
+			'takepicture',{
+				'param' : str1
+			},
+			function(responseData) {
+				document.getElementById("show").innerHTML = "来自java " + responseData;
+			}
+		);
+	}
+
+	function bridgeLog(logContent) {
+		document.getElementById("show").innerHTML = logContent;
+	}
+	
+	//注册事件监听
+	function connectWebViewJavascriptBridge(callback) {
+		if (window.WebViewJavascriptBridge) {
+			callback(WebViewJavascriptBridge)
+		} else {
+			document.addEventListener('WebViewJavascriptBridgeReady',
+			function() {
+				callback(WebViewJavascriptBridge)
+			}, false);
+		}
+	}
+	//注册回调函数，初始化函数
+	connectWebViewJavascriptBridge(
+		function(bridge) {
+			bridge.init(function(message, responseCallback) {
+				console.log('JS got a message', message);
+				var data = {'Javascript Responds' : 'Wee!'};
+				console.log('JS responding with', data);
+				responseCallback(data);
+			});
+
+			bridge.registerHandler("lalala",function(data, responseCallback) {
+					document.getElementById("show").innerHTML = ("data from Java: = " + data);
+					var responseData = "JS已接收Native的参数传值，发送消息接收回执!";
+					responseCallback(responseData);
+			});
+	    }
+	)
+</script>
+</head>
+
+<body>
+	<p>
+		<xmp id="show">显示Native调用JS的参数值 </xmp>
+	</p>
+	<p>
+		<xmp id="init"> </xmp>
+	</p>
+	<p>
+		<input type="text" id="text1" value="用户名(username)" />
+	</p>
+	<p>
+		<input type="text" id="text2" value="password" />
+	</p>
+	<p>
+		<input type="button" id="enter" value="发消息给Native"
+			onclick="testClick();" />
+	</p>
+	<p>
+		<input type="button" id="enter1" value="调用Native方法(takepicture)"
+			onclick="testClick1();" />
+	</p>
+	<p>
+		<input type="button" id="enter2" value="显示html" onclick="testDiv();" />
+	</p>
+	<p>
+		<input type="file" value="打开文件" />
+	</p>
+</body>
+
+</html>

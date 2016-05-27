@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 50,
+                        "endOffset": 754
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 50,
+                        "endOffset": 754
+                    }
+                }
+            }
+        ]
+    }
+]

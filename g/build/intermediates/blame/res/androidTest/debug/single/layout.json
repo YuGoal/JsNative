@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_activity_photo_select.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_folder_list_item.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_activity_photo_select.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_folder_list_item.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_preview_viewpgaer_item.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_preview_viewpgaer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_photo_list_item.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_photo_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_preview_viewpgaer_item.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_preview_viewpgaer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_activity_photo_edit.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_take_phote.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_take_phote.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_take_phote.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_take_phote.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_photo_list_item.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_photo_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_edit_list.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_edit_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_activity_photo_preview.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_adapter_edit_list.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\GalleryFinal1\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_adapter_edit_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_activity_photo_edit.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gf_activity_photo_preview.xml",
+        "source": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\bundles\\debug\\res\\layout\\gf_activity_photo_preview.xml"
+    }
+]

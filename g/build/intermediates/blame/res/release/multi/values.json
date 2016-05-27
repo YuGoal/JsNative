@@ -1,0 +1,558 @@
+[
+    {
+        "outputFile": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 44,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 44,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 47,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 47,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 47,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 47,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 46,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 46,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 48,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 48,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 50,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 50,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 38,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 47,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 47,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 56,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 56,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 55,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 55,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 102,
+                    "endOffset": 1110
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endColumn": 102,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1115,
+                    "endColumn": 51,
+                    "endOffset": 1162
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 51,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1167,
+                    "endColumn": 56,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 56,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1224,
+                    "endColumn": 43,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 43,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 80,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1310,
+                        "endColumn": 80,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endColumn": 48,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 48,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 67,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 67,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 74,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1235,
+                        "endColumn": 74,
+                        "endOffset": 1305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 95,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 95,
+                        "endOffset": 1230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 49,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 49,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 49,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 49,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1737,
+                    "endColumn": 71,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 71,
+                        "endOffset": 1090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1809,
+                    "endColumn": 66,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 66,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endColumn": 43,
+                    "endOffset": 1915
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1095,
+                        "endColumn": 43,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1920,
+                    "endColumn": 50,
+                    "endOffset": 1966
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 50,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1971,
+                    "endColumn": 85,
+                    "endOffset": 2052
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 85,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2057,
+                    "endColumn": 56,
+                    "endOffset": 2109
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 56,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2114,
+                    "endColumn": 62,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 62,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 48,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Downloads\\AppIntro\\g\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 484,
+                        "endColumn": 48,
+                        "endOffset": 528
+                    }
+                }
+            }
+        ]
+    }
+]
